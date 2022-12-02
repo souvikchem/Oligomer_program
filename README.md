@@ -1,4 +1,4 @@
-# Oligomer_program
+# Oligomer
 Oligomer_file
 The codes and corresponding input files are in the .zip file in code. 
 One can run the program by 
